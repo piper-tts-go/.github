@@ -29,7 +29,7 @@ I have hard forked all software mentioned and intend to maintain its existing fu
 
 See each repo's model card for source and license.
 
-- [piper-voice-alan](https://github.com/orgs/piper-tts-go/piper-voice-alan)
-- [piper-voice-bryce](https://github.com/orgs/piper-tts-go/piper-voice-bryce)
-- [piper-voice-jenny](https://github.com/orgs/piper-tts-go/piper-voice-jenny)
-- [piper-voice-kristin](https://github.com/orgs/piper-tts-go/piper-voice-kristin)
+- [piper-voice-alan](https://github.com/piper-tts-go/piper-voice-alan)
+- [piper-voice-bryce](https://github.com/piper-tts-go/piper-voice-bryce)
+- [piper-voice-jenny](https://github.com/piper-tts-go/piper-voice-jenny)
+- [piper-voice-kristin](https://github.com/piper-tts-go/piper-voice-kristin)
