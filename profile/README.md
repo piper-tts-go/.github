@@ -9,3 +9,27 @@ I created this fork to solve problems I encountered while developing [SkyEye](ht
 1. Both Piper and the Go module's maintainers appear to be inactive and unresponsive to bug reports.
 
 I have hard forked all software mentioned and intend to maintain its existing functionality. However, I am not a domain expert on text-to-speech or AI voice synthesis and do not plan to add significant new features.
+
+## Contents
+
+### Tech
+
+- [piper](https://github.com/piper-tts-go/piper) - A hard fork of Piper TTS (C++/Python)
+- piper-go - Embedded Piper for Go, based on https://github.com/amitybell/piper and https://github.com/nabbl/piper (WIP)
+    - [piper-go-gen](https://github.com/piper-tts-go/piper-go-gen) - Script to generate distributable binaries and models
+    - [piper-go-asset](https://github.com/piper-tts-go/piper-go-asset) - Shared types for distributable binaries and models
+
+### Binaries
+
+- [piper-bin-darwin](https://github.com/piper-tts-go/piper-bin-darwin) - Embedded Piper distribution for Go on macOS
+- [piper-bin-linux](https://github.com/piper-tts-go/piper-bin-linux) - Embedded Piper distribution for Go on Linux
+- [piper-bin-windows](https://github.com/piper-tts-go/piper-bin-windows) - Embedded Piper distribution for Go on Windows
+
+### Models
+
+See each repo's model card for source and license.
+
+- [piper-voice-alan](https://github.com/orgs/piper-tts-go/piper-voice-alan)
+- [piper-voice-bryce](https://github.com/orgs/piper-tts-go/piper-voice-bryce)
+- [piper-voice-jenny](https://github.com/orgs/piper-tts-go/piper-voice-jenny)
+- [piper-voice-kristin](https://github.com/orgs/piper-tts-go/piper-voice-kristin)
