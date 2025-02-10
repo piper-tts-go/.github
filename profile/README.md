@@ -15,7 +15,7 @@ I have hard forked all software mentioned and intend to maintain its existing fu
 ### Tech
 
 - [piper](https://github.com/piper-tts-go/piper) - A hard fork of Piper TTS (C++/Python)
-- piper-go - Embedded Piper for Go, based on https://github.com/amitybell/piper and https://github.com/nabbl/piper (WIP)
+- [piper-go](https://github.com/piper-go) -  (WIP) Embedded Piper for Go, based on https://github.com/amitybell/piper and https://github.com/nabbl/piper
     - [piper-go-gen](https://github.com/piper-tts-go/piper-go-gen) - Script to generate distributable binaries and models
     - [piper-go-asset](https://github.com/piper-tts-go/piper-go-asset) - Shared types for distributable binaries and models
 
